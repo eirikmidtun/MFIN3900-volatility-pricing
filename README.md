@@ -1,3 +1,4 @@
 # MFIN3900-volatility-pricing
 This repo contains the scripts used in the thesis: Volatility Pricing in U.S. Equity Returns: Replicating and Extending Ang et al. (2006) to 2024 authored by Andreas Attila Stenberg and Eirik Midtun.
-The scripts are written in ado (.do files) and ran in Stata. All the data used in the thesis is found on Wharton Research Data Service (WRDS). The data vintage and further details regarding the data is specified in the master thesis.
+The scripts are written in ado (.do files) and ran in Stata. All the data used in the thesis is found on Wharton Research Data Service (WRDS). The data vintage and further details regarding the data is specified in the master thesis. Some of the scripts used in this thesis were adapted from Stata tutorials provided by the Leibniz Institute for Financial Research SAFE. These resources served as a foundation for parts of the analysis, which was subsequently extended and customized to suit the objectives of this study. All external packages used are downloaded using ssc.
+
